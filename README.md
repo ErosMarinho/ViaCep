@@ -6,7 +6,7 @@ Um wrapper de cliente .NET para projetos .NET Core e .NET Framework de [Via CEP 
 
 ### Github
 
-Baixe o arquivo zip [Codo](https://github.com/ErosMarinho/ViaCep).
+Baixe o arquivo zip [Code](https://github.com/ErosMarinho/ViaCep).
 
 ### Nuget package manager
 

@@ -18,5 +18,5 @@ Version: nuget v4.1.495
 O pacote possui duas classes:
 
 *   [ViaCepCliente]([https://github.com/guibranco/ViaCEP/blob/main/ViaCEP/ViaCepClient.cs](https://github.com/ErosMarinho/ViaCep/blob/master/Src/ViaCep/ViaCepCliente.cs)): A classe principal (métodos).
-*   [ViaCepResulto]([https://github.com/guibranco/ViaCEP/blob/main/ViaCEP/ViaCepResult.cs](https://github.com/ErosMarinho/ViaCep/blob/master/Src/ViaCep/ViaCepResultado.cs)): A classe de resultado (dados).
+*   [ViaCepResultado]([https://github.com/guibranco/ViaCEP/blob/main/ViaCEP/ViaCepResult.cs](https://github.com/ErosMarinho/ViaCep/blob/master/Src/ViaCep/ViaCepResultado.cs)): A classe de resultado (dados).
 
